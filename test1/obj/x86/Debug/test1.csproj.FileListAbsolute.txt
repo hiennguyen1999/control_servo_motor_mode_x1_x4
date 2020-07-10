@@ -1,0 +1,99 @@
+C:\Users\PC\Desktop\GUIC#\test1\bin\Debug\test1.exe
+C:\Users\PC\Desktop\GUIC#\test1\bin\Debug\test1.pdb
+C:\Users\PC\Desktop\GUIC#\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\GUIC#\test1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Desktop\GUIC#\test1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Desktop\GUIC#\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\GUIC#\test1\obj\x86\Debug\test1.exe
+C:\Users\PC\Desktop\GUIC#\test1\obj\x86\Debug\test1.pdb
+C:\Users\PC\Desktop\GUIC#\test1\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\PC\Desktop\GUIC#\test1\obj\x86\Debug\test1.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\obj\x86\Debug\test1.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\obj\x86\Debug\test1.exe
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\obj\x86\Debug\test1.pdb
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\bin\Debug\test1.exe
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\bin\Debug\test1.pdb
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\bin\Debug\ZedGraph.dll
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\bin\Debug\test1.exe.config
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\bin\Debug\ZedGraph.Web.dll
+C:\Users\PC\Desktop\GUIC#\PHAN1\test1\bin\Debug\ZedGraph.Web.xml
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\bin\Debug\test1.exe.config
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\bin\Debug\test1.exe
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\bin\Debug\test1.pdb
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\bin\Debug\ZedGraph.Web.xml
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\test1.csprojAssemblyReference.cache
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\Interop.VBIDE.dll
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\test1.csproj.ResolveComReference.cache
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.cache
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\test1.csproj.CoreCompileInputs.cache
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\test1.csproj.CopyComplete
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\test1.exe
+E:\Downloads\HK192\HTDKN\BTL\test1\test1\obj\x86\Debug\test1.pdb
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\bin\Debug\test1.exe.config
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\bin\Debug\test1.exe
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\bin\Debug\test1.pdb
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\bin\Debug\ZedGraph.Web.xml
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\test1.csprojAssemblyReference.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\Interop.VBIDE.dll
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\test1.csproj.ResolveComReference.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\test1.csproj.GenerateResource.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\test1.csproj.CoreCompileInputs.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\test1.csproj.CopyComplete
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\test1.exe
+E:\Downloads\HK192\HTDKN\BTL\test1 - Copy\test1\obj\x86\Debug\test1.pdb
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\bin\Debug\test1.exe.config
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\bin\Debug\test1.exe
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\bin\Debug\test1.pdb
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\bin\Debug\ZedGraph.Web.xml
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\test1.csprojAssemblyReference.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\Interop.VBIDE.dll
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\test1.csproj.ResolveComReference.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\test1.csproj.GenerateResource.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\test1.csproj.CoreCompileInputs.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\test1.csproj.CopyComplete
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\test1.exe
+E:\Downloads\HK192\HTDKN\BTL\test1 - 7-7\test1\obj\x86\Debug\test1.pdb
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\bin\Debug\test1.exe.config
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\bin\Debug\test1.exe
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\bin\Debug\test1.pdb
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\bin\Debug\ZedGraph.Web.xml
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\test1.csprojAssemblyReference.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\Interop.VBIDE.dll
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\test1.csproj.ResolveComReference.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\test1.csproj.GenerateResource.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\test1.csproj.CoreCompileInputs.cache
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\test1.csproj.CopyComplete
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\test1.exe
+E:\Downloads\HK192\HTDKN\BTL\test1 - 8-7\test1\obj\x86\Debug\test1.pdb
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\bin\Debug\test1.exe.config
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\obj\x86\Debug\test1.csproj.ResolveComReference.cache
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\obj\x86\Debug\test1.exe
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\obj\x86\Debug\test1.pdb
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\bin\Debug\test1.exe
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\bin\Debug\test1.pdb
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\bin\Debug\ZedGraph.dll
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\bin\Debug\ZedGraph.Web.dll
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\bin\Debug\ZedGraph.Web.xml
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Downloads\test1 - 8-7 - final-20200708T112052Z-001\test1 - 8-7 - final\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+E:\BTLHTDKN\test1 - 8-7 - final\test1\bin\Debug\test1.exe.config
+E:\BTLHTDKN\test1 - 8-7 - final\test1\obj\x86\Debug\Interop.VBIDE.dll
+E:\BTLHTDKN\test1 - 8-7 - final\test1\obj\x86\Debug\test1.csproj.ResolveComReference.cache
+E:\BTLHTDKN\test1 - 8-7 - final\test1\obj\x86\Debug\test1.exe
+E:\BTLHTDKN\test1 - 8-7 - final\test1\obj\x86\Debug\test1.pdb

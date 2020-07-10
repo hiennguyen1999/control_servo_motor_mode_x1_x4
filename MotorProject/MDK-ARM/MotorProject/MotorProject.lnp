@@ -1,0 +1,25 @@
+--cpu=Cortex-M4.fp
+"motorproject\startup_stm32f407xx.o"
+"motorproject\main.o"
+"motorproject\stm32f4xx_it.o"
+"motorproject\stm32f4xx_hal_msp.o"
+"motorproject\stm32f4xx_hal_tim.o"
+"motorproject\stm32f4xx_hal_tim_ex.o"
+"motorproject\stm32f4xx_hal_uart.o"
+"motorproject\stm32f4xx_hal_rcc.o"
+"motorproject\stm32f4xx_hal_rcc_ex.o"
+"motorproject\stm32f4xx_hal_flash.o"
+"motorproject\stm32f4xx_hal_flash_ex.o"
+"motorproject\stm32f4xx_hal_flash_ramfunc.o"
+"motorproject\stm32f4xx_hal_gpio.o"
+"motorproject\stm32f4xx_hal_dma_ex.o"
+"motorproject\stm32f4xx_hal_dma.o"
+"motorproject\stm32f4xx_hal_pwr.o"
+"motorproject\stm32f4xx_hal_pwr_ex.o"
+"motorproject\stm32f4xx_hal_cortex.o"
+"motorproject\stm32f4xx_hal.o"
+"motorproject\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter "MotorProject\MotorProject.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "MotorProject.map" -o MotorProject\MotorProject.axf
